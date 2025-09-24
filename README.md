@@ -1,1 +1,2 @@
-### Test coverage image.png
+### Test coverage 
+* ![test coverage](lib/test-result.png)
